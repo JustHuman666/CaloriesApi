@@ -1,0 +1,50 @@
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.exe
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.deps.json
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.runtimeconfig.json
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.runtimeconfig.dev.json
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.dll
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.pdb
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.csprojAssemblyReference.cache
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.AssemblyInfoInputs.cache
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.AssemblyInfo.cs
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.RazorTargetAssemblyInfo.cache
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\staticwebassets\CaloriesApi.StaticWebAssets.Manifest.cache
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\staticwebassets\CaloriesApi.StaticWebAssets.xml
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.dll
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.pdb
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.genruntimeconfig.cache
+D:\visual studio проекты\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio проекты\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.csproj.CopyComplete
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.exe
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.deps.json
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.runtimeconfig.json
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\CaloriesApi.pdb
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\staticwebassets\CaloriesApi.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\staticwebassets\CaloriesApi.StaticWebAssets.xml
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.csproj.CopyComplete
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.pdb
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\CaloriesApi\CaloriesApi\obj\Debug\netcoreapp3.1\CaloriesApi.MvcApplicationPartsAssemblyInfo.cache
